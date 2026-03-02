@@ -117,3 +117,15 @@ Prabhat kumar
 Aspiring Data Analyst | • Excel • SQL • Power BI
 
 Mail:- mrprabhatkumar9@gmail.com
+
+PowerBI Dashboard Screenshots
+1. State/City Analysis
+   <img width="1527" height="861" alt="image" src="https://github.com/user-attachments/assets/55204865-3186-42cf-82ee-df89cd57d131" />
+2. Date Analysis
+   <img width="1542" height="867" alt="image" src="https://github.com/user-attachments/assets/557873e9-bce0-4263-b015-b003c92ed05e" />
+3. Restaurant/Dish and Category Analysis
+   <img width="1527" height="858" alt="image" src="https://github.com/user-attachments/assets/e9b2e178-fd2d-4011-a756-9c1df4cfdfd1" />
+
+
+
+
